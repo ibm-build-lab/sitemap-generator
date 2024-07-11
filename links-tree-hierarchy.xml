@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<seed_root website_url="https://www.applause.com/">
+   <urldata realurl="https://www.applause.com/leadership/" url="https://www.applause.com/leadership/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/about-applause/" url="https://www.applause.com/about-applause/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/vista-equity-partners/" url="https://www.applause.com/vista-equity-partners/" sourceurl="https://www.applause.com/about-applause/" depth="2"/>
+   </urldata>
+   <urldata realurl="https://www.applause.com/life-at-applause/" url="https://www.applause.com/life-at-applause/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/diversity-equity-inclusion/" url="https://www.applause.com/diversity-equity-inclusion/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/applause-certified-minority-owned-business/" url="https://www.applause.com/applause-certified-minority-owned-business/" sourceurl="https://www.applause.com/diversity-equity-inclusion/" depth="2"/>
+   </urldata>
+   <urldata realurl="https://www.applause.com/jobs/" url="https://www.applause.com/jobs/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/contact-us/" url="/contact-us/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/the-applause-difference/" url="/the-applause-difference/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/applause-testing-platform/" url="https://www.applause.com/applause-testing-platform/" sourceurl="https://www.applause.com/the-applause-difference/" depth="2">
+         <urldata realurl="https://www.applause.com/test-case-management/" url="https://www.applause.com/test-case-management/" sourceurl="https://www.applause.com/applause-testing-platform/" depth="3"/>
+      </urldata>
+   </urldata>
+   <urldata realurl="https://www.applause.com/digital-quality-solutions/" url="/digital-quality-solutions/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/automated-functional-testing/" url="https://www.applause.com/automated-functional-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/automation-pilot-program/" url="https://www.applause.com/automation-pilot-program/" sourceurl="https://www.applause.com/automated-functional-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/what-is-the-safe-agile-framework/" url="https://www.applause.com/blog/what-is-the-safe-agile-framework/" sourceurl="https://www.applause.com/automation-pilot-program/" depth="4"/>
+         </urldata>
+      </urldata>
+      <urldata realurl="https://www.applause.com/accessibility-testing/" url="https://www.applause.com/accessibility-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/wcag/" url="https://www.applause.com/wcag/" sourceurl="https://www.applause.com/accessibility-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/inclusivity-streaming-gaming-entertainment/" url="https://www.applause.com/blog/inclusivity-streaming-gaming-entertainment/" sourceurl="https://www.applause.com/wcag/" depth="4"/>
+            <urldata realurl="https://www.applause.com/blog/benchmarking-progress-digital-accessibility/" url="https://www.applause.com/blog/benchmarking-progress-digital-accessibility/" sourceurl="https://www.applause.com/wcag/" depth="4"/>
+         </urldata>
+      </urldata>
+      <urldata realurl="https://www.applause.com/payment-testing/" url="https://www.applause.com/payment-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/transaction-validation/" url="https://www.applause.com/transaction-validation/" sourceurl="https://www.applause.com/payment-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/how-to-land-dream-software-testing-job/" url="https://www.applause.com/blog/how-to-land-dream-software-testing-job/" sourceurl="https://www.applause.com/transaction-validation/" depth="4"/>
+            <urldata realurl="https://www.applause.com/blog/considerations-for-testing-blockchain/" url="https://www.applause.com/blog/considerations-for-testing-blockchain/" sourceurl="https://www.applause.com/transaction-validation/" depth="4"/>
+         </urldata>
+         <urldata realurl="https://www.applause.com/digital-wallet-testing/" url="https://www.applause.com/digital-wallet-testing/" sourceurl="https://www.applause.com/payment-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/building-next-generation-loyalty-programs/" url="https://www.applause.com/blog/building-next-generation-loyalty-programs/" sourceurl="https://www.applause.com/digital-wallet-testing/" depth="4"/>
+            <urldata realurl="https://www.applause.com/blog/3-digital-payment-testing-factors/" url="https://www.applause.com/blog/3-digital-payment-testing-factors/" sourceurl="https://www.applause.com/digital-wallet-testing/" depth="4"/>
+         </urldata>
+      </urldata>
+      <urldata realurl="https://www.applause.com/ux-testing/" url="https://www.applause.com/ux-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/blog/what-is-usability-testing-types-benefits/" url="https://www.applause.com/blog/what-is-usability-testing-types-benefits/" sourceurl="https://www.applause.com/ux-testing/" depth="3"/>
+      </urldata>
+      <urldata realurl="https://www.applause.com/voice-testing/" url="https://www.applause.com/voice-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/amazon-alexa/" url="/amazon-alexa/" sourceurl="https://www.applause.com/voice-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/how-voice-elevates-omnichannel-experiences/" url="https://www.applause.com/blog/how-voice-elevates-omnichannel-experiences/" sourceurl="https://www.applause.com/amazon-alexa/" depth="4"/>
+            <urldata realurl="https://www.applause.com/blog/what-voice-search-means-to-future-of-retail/" url="https://www.applause.com/blog/what-voice-search-means-to-future-of-retail/" sourceurl="https://www.applause.com/amazon-alexa/" depth="4"/>
+            <urldata realurl="https://www.applause.com/alexa-skills/" url="https://www.applause.com/alexa-skills/" sourceurl="https://www.applause.com/amazon-alexa/" depth="4"/>
+            <urldata realurl="https://www.applause.com/alexa-voice-services/" url="https://www.applause.com/alexa-voice-services/" sourceurl="https://www.applause.com/amazon-alexa/" depth="4">
+               <urldata realurl="https://www.applause.com/smart-homes/" url="https://www.applause.com/smart-homes/" sourceurl="https://www.applause.com/alexa-voice-services/" depth="5"/>
+            </urldata>
+            <urldata realurl="https://www.applause.com/blog/ai-virtual-assistants-are-ready-to-help/" url="https://www.applause.com/blog/ai-virtual-assistants-are-ready-to-help/" sourceurl="https://www.applause.com/amazon-alexa/" depth="4"/>
+         </urldata>
+         <urldata realurl="https://www.applause.com/google-assistant/" url="/google-assistant/" sourceurl="https://www.applause.com/voice-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/wearables/" url="https://www.applause.com/wearables/" sourceurl="https://www.applause.com/google-assistant/" depth="4"/>
+         </urldata>
+      </urldata>
+      <urldata realurl="https://www.applause.com/integrated-functional-testing/" url="https://www.applause.com/integrated-functional-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2"/>
+      <urldata realurl="https://www.applause.com/customer-journey-testing/" url="https://www.applause.com/customer-journey-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2"/>
+      <urldata realurl="https://www.applause.com/manual-functional-testing/" url="https://www.applause.com/manual-functional-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/exploratory-testing/" url="https://www.applause.com/exploratory-testing/" sourceurl="https://www.applause.com/manual-functional-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/avoiding-bias-traps-with-red-teaming/" url="https://www.applause.com/blog/avoiding-bias-traps-with-red-teaming/" sourceurl="https://www.applause.com/exploratory-testing/" depth="4"/>
+            <urldata realurl="https://www.applause.com/blog/understanding-generative-ai-faqs/" url="https://www.applause.com/blog/understanding-generative-ai-faqs/" sourceurl="https://www.applause.com/exploratory-testing/" depth="4"/>
+         </urldata>
+         <urldata realurl="https://www.applause.com/localization-testing/" url="https://www.applause.com/localization-testing/" sourceurl="https://www.applause.com/manual-functional-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/functional-testing-types-examples/" url="https://www.applause.com/blog/functional-testing-types-examples/" sourceurl="https://www.applause.com/localization-testing/" depth="4">
+               <urldata realurl="https://www.applause.com/healthcare/" url="https://www.applause.com/healthcare/" sourceurl="https://www.applause.com/blog/functional-testing-types-examples/" depth="5"/>
+               <urldata realurl="https://www.applause.com/automotive-testing/" url="https://www.applause.com/automotive-testing/" sourceurl="https://www.applause.com/blog/functional-testing-types-examples/" depth="5"/>
+               <urldata realurl="https://www.applause.com/security-testing/" url="https://www.applause.com/security-testing/" sourceurl="https://www.applause.com/blog/functional-testing-types-examples/" depth="5"/>
+            </urldata>
+         </urldata>
+         <urldata realurl="https://www.applause.com/in-sprint-testing/" url="https://www.applause.com/in-sprint-testing/" sourceurl="https://www.applause.com/manual-functional-testing/" depth="3"/>
+      </urldata>
+      <urldata realurl="https://www.applause.com/ai-training-testing/" url="https://www.applause.com/ai-training-testing/" sourceurl="https://www.applause.com/digital-quality-solutions/" depth="2">
+         <urldata realurl="https://www.applause.com/voice-ai-testing/" url="https://www.applause.com/voice-ai-testing/" sourceurl="https://www.applause.com/ai-training-testing/" depth="3">
+            <urldata realurl="https://www.applause.com/blog/build-generative-ai-application-test-plan/" url="https://www.applause.com/blog/build-generative-ai-application-test-plan/" sourceurl="https://www.applause.com/voice-ai-testing/" depth="4"/>
+         </urldata>
+         <urldata realurl="https://www.applause.com/generative-ai-testing/" url="https://www.applause.com/generative-ai-testing/" sourceurl="https://www.applause.com/ai-training-testing/" depth="3"/>
+      </urldata>
+   </urldata>
+   <urldata realurl="https://www.applause.com/our-community/" url="/our-community/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/crowdtesting/" url="/crowdtesting/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/solutions/" url="/solutions/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/blog/" url="/blog/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/podcasts/" url="/podcasts/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/resources/" url="/resources/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/webinars/" url="/webinars/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/resources/all/?dfg_active_filter=webinars" url="/resources/all/?dfg_active_filter=webinars" sourceurl="https://www.applause.com/webinars/" depth="2"/>
+   </urldata>
+   <urldata realurl="https://www.applause.com/customers/" url="/customers/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/" url="/state-of-digital-quality-2023/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/global/" url="https://www.applause.com/state-of-digital-quality-2023/global/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/europe/" url="/state-of-digital-quality-2023/europe/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/retail/" url="/state-of-digital-quality-2023/retail/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/media-telco/" url="/state-of-digital-quality-2023/media-telco/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/travel-hospitality/" url="/state-of-digital-quality-2023/travel-hospitality/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/health-wellness/" url="/state-of-digital-quality-2023/health-wellness/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/finance/" url="/state-of-digital-quality-2023/finance/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+      <urldata realurl="https://www.applause.com/state-of-digital-quality-2023/software/" url="/state-of-digital-quality-2023/software/" sourceurl="https://www.applause.com/state-of-digital-quality-2023/" depth="2"/>
+   </urldata>
+   <urldata realurl="https://www.applause.com/partnerships/" url="https://www.applause.com/partnerships/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/terms-of-use/" url="https://www.applause.com/terms-of-use/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/newsroom/" url="https://www.applause.com/newsroom/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/applause-global-survey-inclusive-design/" url="https://www.applause.com/applause-global-survey-inclusive-design/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-2024-generative-ai-survey/" url="https://www.applause.com/applause-2024-generative-ai-survey/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-ar-vr-testing-support-apple-vision-pro/" url="https://www.applause.com/applause-ar-vr-testing-support-apple-vision-pro/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-delivers-15-years-of-growth-innovation/" url="https://www.applause.com/applause-delivers-15-years-of-growth-innovation/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-named-top-place-to-work-by-boston-globe" url="https://www.applause.com/applause-named-top-place-to-work-by-boston-globe" sourceurl="https://www.applause.com/newsroom/" depth="2">
+         <urldata realurl="https://www.applause.com/resources/videos/meet-the-applause-testing-community/" url="https://www.applause.com/resources/videos/meet-the-applause-testing-community/" sourceurl="https://www.applause.com/applause-named-top-place-to-work-by-boston-globe" depth="3"/>
+         <urldata realurl="https://www.applause.com/blog/the-future-of-generative-ai-chatgpt/" url="https://www.applause.com/blog/the-future-of-generative-ai-chatgpt/" sourceurl="https://www.applause.com/applause-named-top-place-to-work-by-boston-globe" depth="3"/>
+      </urldata>
+      <urldata realurl="https://www.applause.com/majority-plan-to-change-holiday-spending/" url="https://www.applause.com/majority-plan-to-change-holiday-spending/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-generative-ai-training-testing/" url="https://www.applause.com/applause-generative-ai-training-testing/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-generative-ai-survey-reveals-bias/" url="https://www.applause.com/applause-generative-ai-survey-reveals-bias/" sourceurl="https://www.applause.com/newsroom/" depth="2">
+         <urldata realurl="https://www.applause.com/blog/survey-shows-ai-voice-app-usage-on-the-rise/" url="https://www.applause.com/blog/survey-shows-ai-voice-app-usage-on-the-rise/" sourceurl="https://www.applause.com/applause-generative-ai-survey-reveals-bias/" depth="3"/>
+      </urldata>
+      <urldata realurl="https://www.applause.com/danielle-lee-joins-board-of-directors/" url="https://www.applause.com/danielle-lee-joins-board-of-directors/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-digital-quality-report-2023/" url="https://www.applause.com/applause-digital-quality-report-2023/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/applause-survey-accessibility-and-wcag/" url="https://www.applause.com/applause-survey-accessibility-and-wcag/" sourceurl="https://www.applause.com/newsroom/" depth="2"/>
+      <urldata realurl="https://www.applause.com/ai-voice-application-and-chatgpt-survey/" url="https://www.applause.com/ai-voice-application-and-chatgpt-survey/" sourceurl="https://www.applause.com/newsroom/" depth="2">
+         <urldata realurl="https://www.applause.com/blog/avoid-questionable-datasets-to-train-ai/" url="https://www.applause.com/blog/avoid-questionable-datasets-to-train-ai/" sourceurl="https://www.applause.com/ai-voice-application-and-chatgpt-survey/" depth="3"/>
+      </urldata>
+   </urldata>
+   <urldata realurl="https://www.applause.com/accessibility-statement/" url="https://www.applause.com/accessibility-statement/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/working-with-us/" url="/working-with-us/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/industry-expertise/" url="/industry-expertise/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/resources/videos/release-faster-with-confidence/" url="https://www.applause.com/resources/videos/release-faster-with-confidence/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/industries/" url="/industries/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/technologies/" url="/technologies/" sourceurl="https://www.applause.com/" depth="1"/>
+   <urldata realurl="https://www.applause.com/privacy-policy/" url="https://www.applause.com/privacy-policy/" sourceurl="https://www.applause.com/" depth="1">
+      <urldata realurl="https://www.applause.com/data-protection-information/" url="https://www.applause.com/data-protection-information/" sourceurl="https://www.applause.com/privacy-policy/" depth="2"/>
+   </urldata>
+   <urldata realurl="https://www.applause.com/pricing-inquiry/" url="https://www.applause.com/pricing-inquiry/" sourceurl="https://www.applause.com/" depth="1"/>
+</seed_root>

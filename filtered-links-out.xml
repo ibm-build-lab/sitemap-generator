@@ -1,0 +1,2539 @@
+<linkchecker created="2024-07-11 11:21:09-004">
+  <urldata>
+    <url>https://www.applause.com/</url>
+    <realurl>https://www.applause.com/</realurl>
+    <extern>0</extern>
+    <dltime>0.014229</dltime>
+    <dlsize>469313</dlsize>
+    <checktime>0.392131</checktime>
+    <level>0</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/leadership/</url>
+    <name>Leadership Team</name>
+    <parent line="13" column="1410">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/leadership/</realurl>
+    <extern>0</extern>
+    <dltime>0.015697</dltime>
+    <dlsize>523562</dlsize>
+    <checktime>0.687868</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/about-applause/</url>
+    <name>About Applause</name>
+    <parent line="13" column="894">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/about-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.010343</dltime>
+    <dlsize>501604</dlsize>
+    <checktime>1.120917</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/life-at-applause/</url>
+    <name>Life at Applause</name>
+    <parent line="13" column="1054">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/life-at-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.001417</dltime>
+    <dlsize>544392</dlsize>
+    <checktime>2.441506</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/diversity-equity-inclusion/</url>
+    <name>Diversity, Equity &amp; Inclusion</name>
+    <parent line="13" column="1218">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/diversity-equity-inclusion/</realurl>
+    <extern>0</extern>
+    <dltime>0.016235</dltime>
+    <dlsize>533908</dlsize>
+    <checktime>2.705899</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/jobs/</url>
+    <name>Job Openings</name>
+    <parent line="13" column="1871">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/jobs/</realurl>
+    <extern>0</extern>
+    <dltime>0.011850</dltime>
+    <dlsize>441302</dlsize>
+    <checktime>3.576373</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/contact-us/</url>
+    <name>Contact Sales</name>
+    <parent line="13" column="4765">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/contact-us/</realurl>
+    <extern>0</extern>
+    <dltime>0.019875</dltime>
+    <dlsize>514589</dlsize>
+    <checktime>3.896915</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/the-applause-difference/</url>
+    <name>The Applause DifferenceSee why global brands trust us for comprehensive digital quality</name>
+    <parent line="13" column="5444">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/the-applause-difference/</realurl>
+    <extern>0</extern>
+    <dltime>0.021299</dltime>
+    <dlsize>554303</dlsize>
+    <checktime>4.168196</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/digital-quality-solutions/</url>
+    <name>Our SolutionsChoose from a range of functional and specialized digital testing and feedback solutions</name>
+    <parent line="13" column="5954">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/digital-quality-solutions/</realurl>
+    <extern>0</extern>
+    <dltime>0.015851</dltime>
+    <dlsize>478906</dlsize>
+    <checktime>3.627718</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/our-community/</url>
+    <name>Our Global CommunityAccess the world’s largest testing community 24/7/365</name>
+    <parent line="13" column="7560">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/our-community/</realurl>
+    <extern>0</extern>
+    <dltime>0.016492</dltime>
+    <dlsize>467828</dlsize>
+    <checktime>2.569067</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/crowdtesting/</url>
+    <name>Crowdtesting Discover how community-based testing drives quality at scale</name>
+    <parent line="13" column="8042">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/crowdtesting/</realurl>
+    <extern>0</extern>
+    <dltime>0.070973</dltime>
+    <dlsize>550170</dlsize>
+    <checktime>2.465487</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/solutions/</url>
+    <name>By Testing Need</name>
+    <parent line="13" column="9698">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/solutions/</realurl>
+    <extern>0</extern>
+    <dltime>0.014877</dltime>
+    <dlsize>472098</dlsize>
+    <checktime>1.988249</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/blog/</url>
+    <name>BlogRead the latest industry news on remote testing and digital quality</name>
+    <parent line="13" column="20852">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/blog/</realurl>
+    <extern>0</extern>
+    <dltime>0.020272</dltime>
+    <dlsize>242061</dlsize>
+    <checktime>1.705192</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/podcasts/</url>
+    <name>PodcastsListen to the latest episodes of the Ready, Test, Go. podcast</name>
+    <parent line="13" column="21321">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/podcasts/</realurl>
+    <extern>0</extern>
+    <dltime>0.023732</dltime>
+    <dlsize>564700</dlsize>
+    <checktime>1.874026</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/resources/</url>
+    <name>Resource CenterRead and view our resources for the latest testing best practices</name>
+    <parent line="13" column="21803">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/resources/</realurl>
+    <extern>0</extern>
+    <dltime>0.024069</dltime>
+    <dlsize>527809</dlsize>
+    <checktime>1.664055</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/webinars/</url>
+    <name>WebinarsRegister today for our upcoming webinars on digital quality</name>
+    <parent line="13" column="22397">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/webinars/</realurl>
+    <extern>0</extern>
+    <dltime>0.048496</dltime>
+    <dlsize>527679</dlsize>
+    <checktime>1.405702</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/customers/</url>
+    <name>Customer StoriesWe help brands just like you launch uncommonly great digital assets with confidence</name>
+    <parent line="13" column="22878">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/customers/</realurl>
+    <extern>0</extern>
+    <dltime>0.024067</dltime>
+    <dlsize>554415</dlsize>
+    <checktime>1.365939</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/</url>
+    <name>State of Digital Quality, 2023Learn how to improve your digital quality processes and ensure exceptional customer experiences with special reports for your industry or region.Read Now →</name>
+    <parent line="13" column="23501">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/</realurl>
+    <extern>0</extern>
+    <dltime>0.047653</dltime>
+    <dlsize>422784</dlsize>
+    <checktime>1.292527</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/partnerships/</url>
+    <name>Partnerships</name>
+    <parent line="13" column="1715">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/partnerships/</realurl>
+    <extern>0</extern>
+    <dltime>0.032364</dltime>
+    <dlsize>543466</dlsize>
+    <checktime>8.941565</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/terms-of-use/</url>
+    <name>Terms of Use</name>
+    <parent line="15" column="15243">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/terms-of-use/</realurl>
+    <extern>0</extern>
+    <dltime>0.022573</dltime>
+    <dlsize>525827</dlsize>
+    <checktime>1.160145</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/newsroom/</url>
+    <name>Newsroom</name>
+    <parent line="13" column="1567">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/newsroom/</realurl>
+    <extern>0</extern>
+    <dltime>0.017948</dltime>
+    <dlsize>524143</dlsize>
+    <checktime>10.162431</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/accessibility-statement/</url>
+    <name>Accessibility Commitment</name>
+    <parent line="15" column="15607">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/accessibility-statement/</realurl>
+    <extern>0</extern>
+    <dltime>0.016518</dltime>
+    <dlsize>441778</dlsize>
+    <checktime>1.469951</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/working-with-us/</url>
+    <name>Working With UsAdd quality, speed and scale with our fully managed solutions</name>
+    <parent line="13" column="6477">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/working-with-us/</realurl>
+    <extern>0</extern>
+    <dltime>0.011227</dltime>
+    <dlsize>450938</dlsize>
+    <checktime>12.993281</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/industry-expertise/</url>
+    <name>Industry ExpertiseTap into a winning combination of leadership and expertise</name>
+    <parent line="13" column="7073">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/industry-expertise/</realurl>
+    <extern>0</extern>
+    <dltime>0.002549</dltime>
+    <dlsize>540146</dlsize>
+    <checktime>13.620540</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/release-faster-with-confidence/</url>
+    <name>Release Better, FasterSee how Applause delivers authentic, real-world feedback on the quality of your digital experiences – so you can release with confidence.Watch Now →</name>
+    <parent line="13" column="8656">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/resources/videos/release-faster-with-confidence/</realurl>
+    <extern>0</extern>
+    <dltime>0.019237</dltime>
+    <dlsize>453204</dlsize>
+    <checktime>13.535100</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/automated-functional-testing/</url>
+    <parent line="13" column="39340">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/automated-functional-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.030118</dltime>
+    <dlsize>539051</dlsize>
+    <checktime>0.404995</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/industries/</url>
+    <name>By Industry</name>
+    <parent line="13" column="14575">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/industries/</realurl>
+    <extern>0</extern>
+    <dltime>0.016008</dltime>
+    <dlsize>462205</dlsize>
+    <checktime>15.782423</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/technologies/</url>
+    <name>By Technology</name>
+    <parent line="13" column="12189">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/technologies/</realurl>
+    <extern>0</extern>
+    <dltime>0.015253</dltime>
+    <dlsize>475543</dlsize>
+    <checktime>16.179052</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/accessibility-testing/</url>
+    <parent line="13" column="45903">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/accessibility-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.013423</dltime>
+    <dlsize>537160</dlsize>
+    <checktime>0.807293</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/payment-testing/</url>
+    <parent line="13" column="47379">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/payment-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.035833</dltime>
+    <dlsize>537368</dlsize>
+    <checktime>1.110836</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/privacy-policy/</url>
+    <name>Privacy Policy</name>
+    <parent line="15" column="15423">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/privacy-policy/</realurl>
+    <extern>0</extern>
+    <dltime>0.015481</dltime>
+    <dlsize>542531</dlsize>
+    <checktime>12.852811</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/ux-testing/</url>
+    <parent line="13" column="48814">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/ux-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.011620</dltime>
+    <dlsize>535972</dlsize>
+    <checktime>1.116239</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/pricing-inquiry/</url>
+    <name>Pricing Inquiry</name>
+    <parent line="15" column="9240">https://www.applause.com/</parent>
+    <realurl>https://www.applause.com/pricing-inquiry/</realurl>
+    <extern>0</extern>
+    <dltime>0.011474</dltime>
+    <dlsize>519293</dlsize>
+    <checktime>13.660293</checktime>
+    <level>1</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/voice-testing/</url>
+    <parent line="13" column="51858">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/voice-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.017905</dltime>
+    <dlsize>539712</dlsize>
+    <checktime>1.130934</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/vista-equity-partners/</url>
+    <name>Vista Equity Partners</name>
+    <parent line="15" column="3584">https://www.applause.com/about-applause/</parent>
+    <realurl>https://www.applause.com/vista-equity-partners/</realurl>
+    <extern>0</extern>
+    <dltime>0.031770</dltime>
+    <dlsize>450946</dlsize>
+    <checktime>13.396414</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-certified-minority-owned-business/</url>
+    <name>minority owned business</name>
+    <parent line="13" column="51234">https://www.applause.com/diversity-equity-inclusion/</parent>
+    <realurl>https://www.applause.com/applause-certified-minority-owned-business/</realurl>
+    <extern>0</extern>
+    <dltime>0.020801</dltime>
+    <dlsize>451366</dlsize>
+    <checktime>14.482382</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-testing-platform/</url>
+    <name>Explore Our Platform</name>
+    <parent line="21" column="47001">https://www.applause.com/the-applause-difference/</parent>
+    <realurl>https://www.applause.com/applause-testing-platform/</realurl>
+    <extern>0</extern>
+    <dltime>0.020504</dltime>
+    <dlsize>450709</dlsize>
+    <checktime>15.025651</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/integrated-functional-testing/</url>
+    <parent line="13" column="40853">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/integrated-functional-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.003707</dltime>
+    <dlsize>532013</dlsize>
+    <checktime>14.896509</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/customer-journey-testing/</url>
+    <parent line="13" column="50369">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/customer-journey-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.024405</dltime>
+    <dlsize>538050</dlsize>
+    <checktime>15.396996</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/manual-functional-testing/</url>
+    <parent line="13" column="37906">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/manual-functional-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.026125</dltime>
+    <dlsize>537567</dlsize>
+    <checktime>17.237935</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/ai-training-testing/</url>
+    <parent line="13" column="53325">https://www.applause.com/digital-quality-solutions/</parent>
+    <realurl>https://www.applause.com/ai-training-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.029307</dltime>
+    <dlsize>549550</dlsize>
+    <checktime>16.466613</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/state-of-digital-quality-2023/global/</url>
+    <name>Download the Report</name>
+    <parent line="13" column="1782">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/global/</realurl>
+    <extern>0</extern>
+    <dltime>0.002600</dltime>
+    <dlsize>485370</dlsize>
+    <checktime>6.240424</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/europe/</url>
+    <name>Europe</name>
+    <parent line="13" column="7684">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/europe/</realurl>
+    <extern>0</extern>
+    <dltime>0.030761</dltime>
+    <dlsize>487206</dlsize>
+    <checktime>5.570701</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/retail/</url>
+    <name>Retail</name>
+    <parent line="13" column="9817">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/retail/</realurl>
+    <extern>0</extern>
+    <dltime>0.014433</dltime>
+    <dlsize>408164</dlsize>
+    <checktime>4.258287</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/media-telco/</url>
+    <name>Media &amp; Telco</name>
+    <parent line="13" column="11947">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/media-telco/</realurl>
+    <extern>0</extern>
+    <dltime>0.036242</dltime>
+    <dlsize>407793</dlsize>
+    <checktime>4.906750</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/travel-hospitality/</url>
+    <name>Travel &amp; Hospitality</name>
+    <parent line="13" column="14089">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/travel-hospitality/</realurl>
+    <extern>0</extern>
+    <dltime>0.021637</dltime>
+    <dlsize>407167</dlsize>
+    <checktime>5.582033</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/health-wellness/</url>
+    <name>Health and Wellness</name>
+    <parent line="13" column="16260">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/health-wellness/</realurl>
+    <extern>0</extern>
+    <dltime>0.009465</dltime>
+    <dlsize>407399</dlsize>
+    <checktime>5.470996</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/resources/all/?dfg_active_filter=webinars</url>
+    <name>View All</name>
+    <parent line="13" column="32469">https://www.applause.com/webinars/</parent>
+    <realurl>https://www.applause.com/resources/all/?dfg_active_filter=webinars</realurl>
+    <extern>0</extern>
+    <dltime>0.000597</dltime>
+    <dlsize>110445</dlsize>
+    <checktime>11.598366</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/finance/</url>
+    <name>Finance</name>
+    <parent line="13" column="18424">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/finance/</realurl>
+    <extern>0</extern>
+    <dltime>0.012144</dltime>
+    <dlsize>407190</dlsize>
+    <checktime>5.387108</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2023/software/</url>
+    <name>B2B Software</name>
+    <parent line="13" column="20000">https://www.applause.com/state-of-digital-quality-2023/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2023/software/</realurl>
+    <extern>0</extern>
+    <dltime>0.018464</dltime>
+    <dlsize>407103</dlsize>
+    <checktime>5.772268</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-global-survey-inclusive-design/</url>
+    <name>Applause Global Accessibility Survey: Organizations Prioritize Inclusive Design More Than Ever but Lack the Resources to Make Further Progress</name>
+    <parent line="13" column="33945">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-global-survey-inclusive-design/</realurl>
+    <extern>0</extern>
+    <dltime>0.021527</dltime>
+    <dlsize>455609</dlsize>
+    <checktime>10.119553</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-2024-generative-ai-survey/</url>
+    <name>Applause 2024 Generative AI Survey Reveals Enthusiasm for Gen AI Despite Persisting Concerns Around Bias and Performance</name>
+    <parent line="13" column="34592">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-2024-generative-ai-survey/</realurl>
+    <extern>0</extern>
+    <dltime>0.002702</dltime>
+    <dlsize>457480</dlsize>
+    <checktime>12.767748</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-ar-vr-testing-support-apple-vision-pro/</url>
+    <name>Applause Leads the Way in AR/VR Testing Excellence, Including Support for Apple Vision Pro</name>
+    <parent line="13" column="35224">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-ar-vr-testing-support-apple-vision-pro/</realurl>
+    <extern>0</extern>
+    <dltime>0.003293</dltime>
+    <dlsize>450570</dlsize>
+    <checktime>13.545093</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-delivers-15-years-of-growth-innovation/</url>
+    <name>Applause Delivers 15 Years of Consecutive Growth and Innovation in Digital Quality and Testing Solutions</name>
+    <parent line="13" column="35838">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-delivers-15-years-of-growth-innovation/</realurl>
+    <extern>0</extern>
+    <dltime>0.018583</dltime>
+    <dlsize>452984</dlsize>
+    <checktime>13.540541</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-named-top-place-to-work-by-boston-globe</url>
+    <name>Applause Named a Top Place to Work by The Boston Globe for Fifth Year and Awarded for Excellence in Over a Dozen Technology Awards</name>
+    <parent line="13" column="36465">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-named-top-place-to-work-by-boston-globe</realurl>
+    <extern>0</extern>
+    <dltime>0.001671</dltime>
+    <dlsize>453007</dlsize>
+    <checktime>12.881903</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/majority-plan-to-change-holiday-spending/</url>
+    <name>Applause Global Survey Finds 81% Plan to Change Holiday Spending Due to the Impact of Inflation and Financial Instability</name>
+    <parent line="13" column="37112">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/majority-plan-to-change-holiday-spending/</realurl>
+    <extern>0</extern>
+    <dltime>0.004003</dltime>
+    <dlsize>454026</dlsize>
+    <checktime>13.940271</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-generative-ai-training-testing/</url>
+    <name>AI Testing Leader Applause Delivers Advanced Generative AI Solution Training, Testing and Validation through Enhanced Crowdtesting Services</name>
+    <parent line="13" column="38405">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-generative-ai-training-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.018389</dltime>
+    <dlsize>441910</dlsize>
+    <checktime>14.868667</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-generative-ai-survey-reveals-bias/</url>
+    <name>Applause Generative AI Survey Reveals Concerns Over Bias, Copyright Issues, and Data Privacy Despite Overall Popularity and Sanctioned Workplace Usage</name>
+    <parent line="13" column="37745">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-generative-ai-survey-reveals-bias/</realurl>
+    <extern>0</extern>
+    <dltime>0.016336</dltime>
+    <dlsize>455856</dlsize>
+    <checktime>15.090983</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/transaction-validation/</url>
+    <name>live transactions</name>
+    <parent line="21" column="41004">https://www.applause.com/payment-testing/</parent>
+    <realurl>https://www.applause.com/transaction-validation/</realurl>
+    <extern>0</extern>
+    <dltime>0.018959</dltime>
+    <dlsize>469554</dlsize>
+    <checktime>0.141330</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/danielle-lee-joins-board-of-directors/</url>
+    <name>Applause Announces Danielle Lee as New Board of Directors Member</name>
+    <parent line="13" column="39667">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/danielle-lee-joins-board-of-directors/</realurl>
+    <extern>0</extern>
+    <dltime>0.019150</dltime>
+    <dlsize>452056</dlsize>
+    <checktime>14.468868</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-digital-quality-report-2023/</url>
+    <name>Applause State of Digital Quality Report Examines Real-world Testing Data, Analyzes Impact on Customer Satisfaction</name>
+    <parent line="13" column="39049">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-digital-quality-report-2023/</realurl>
+    <extern>0</extern>
+    <dltime>0.018682</dltime>
+    <dlsize>456010</dlsize>
+    <checktime>15.223089</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-survey-accessibility-and-wcag/</url>
+    <name>Applause Global Accessibility Survey Shows Disconnect Between Making Accessibility a Priority and Achieving Conformance to WCAG 2.1 Standards</name>
+    <parent line="13" column="40237">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/applause-survey-accessibility-and-wcag/</realurl>
+    <extern>0</extern>
+    <dltime>0.002535</dltime>
+    <dlsize>454725</dlsize>
+    <checktime>12.721144</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/media/</url>
+    <name>remediate issues quickly</name>
+    <parent line="13" column="49719">https://www.applause.com/blog/live-event-testing-protect-your-investment/</parent>
+    <realurl>https://www.applause.com/media/</realurl>
+    <extern>0</extern>
+    <dltime>0.022902</dltime>
+    <dlsize>538019</dlsize>
+    <checktime>0.500834</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/ai-voice-application-and-chatgpt-survey/</url>
+    <name>Applause AI and Voice Applications Survey Shows ChatGPT Ahead of the Curve with User Satisfaction but Reveals User AI Bias Concerns</name>
+    <parent line="13" column="40886">https://www.applause.com/newsroom/</parent>
+    <realurl>https://www.applause.com/ai-voice-application-and-chatgpt-survey/</realurl>
+    <extern>0</extern>
+    <dltime>0.021741</dltime>
+    <dlsize>453514</dlsize>
+    <checktime>11.035425</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/automation-pilot-program/</url>
+    <name>6-week quick start test automation program</name>
+    <parent line="21" column="32942">https://www.applause.com/automated-functional-testing/</parent>
+    <realurl>https://www.applause.com/automation-pilot-program/</realurl>
+    <extern>0</extern>
+    <dltime>0.002420</dltime>
+    <dlsize>466452</dlsize>
+    <checktime>12.279010</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/wcag/</url>
+    <name>WCAG 2.2</name>
+    <parent line="21" column="33016">https://www.applause.com/accessibility-testing/</parent>
+    <realurl>https://www.applause.com/wcag/</realurl>
+    <extern>0</extern>
+    <dltime>0.002561</dltime>
+    <dlsize>467926</dlsize>
+    <checktime>13.538968</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/digital-wallet-testing/</url>
+    <name>digital wallet</name>
+    <parent line="21" column="40620">https://www.applause.com/payment-testing/</parent>
+    <realurl>https://www.applause.com/digital-wallet-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.015977</dltime>
+    <dlsize>467656</dlsize>
+    <checktime>13.345573</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/data-protection-information/</url>
+    <name>https://www.applause.com/data-protection-information</name>
+    <parent line="13" column="31774">https://www.applause.com/privacy-policy/</parent>
+    <realurl>https://www.applause.com/data-protection-information/</realurl>
+    <extern>0</extern>
+    <dltime>0.016796</dltime>
+    <dlsize>515038</dlsize>
+    <checktime>14.130210</checktime>
+    <level>2</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/amazon-alexa/</url>
+    <parent line="21" column="40131">https://www.applause.com/voice-testing/</parent>
+    <realurl>https://www.applause.com/amazon-alexa/</realurl>
+    <extern>0</extern>
+    <dltime>0.040414</dltime>
+    <dlsize>474698</dlsize>
+    <checktime>14.791868</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/what-is-usability-testing-types-benefits/</url>
+    <name>customer-centric decisions</name>
+    <parent line="21" column="32528">https://www.applause.com/ux-testing/</parent>
+    <realurl>https://www.applause.com/blog/what-is-usability-testing-types-benefits/</realurl>
+    <extern>0</extern>
+    <dltime>0.004070</dltime>
+    <dlsize>184240</dlsize>
+    <checktime>15.511167</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/google-assistant/</url>
+    <parent line="21" column="41502">https://www.applause.com/voice-testing/</parent>
+    <realurl>https://www.applause.com/google-assistant/</realurl>
+    <extern>0</extern>
+    <dltime>0.016418</dltime>
+    <dlsize>530170</dlsize>
+    <checktime>15.193902</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/voice-ai-testing/</url>
+    <name>voice</name>
+    <parent line="21" column="42985">https://www.applause.com/ai-training-testing/</parent>
+    <realurl>https://www.applause.com/voice-ai-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.020823</dltime>
+    <dlsize>470710</dlsize>
+    <checktime>0.751770</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/exploratory-testing/</url>
+    <name>exploratory testing</name>
+    <parent line="21" column="33101">https://www.applause.com/manual-functional-testing/</parent>
+    <realurl>https://www.applause.com/exploratory-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.003393</dltime>
+    <dlsize>116311</dlsize>
+    <checktime>12.606773</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/test-case-management/</url>
+    <name>test case management</name>
+    <parent line="13" column="33026">https://www.applause.com/applause-testing-platform/</parent>
+    <realurl>https://www.applause.com/test-case-management/</realurl>
+    <extern>0</extern>
+    <dltime>0.004407</dltime>
+    <dlsize>533919</dlsize>
+    <checktime>15.073378</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/localization-testing/</url>
+    <name>localized</name>
+    <parent line="21" column="33506">https://www.applause.com/manual-functional-testing/</parent>
+    <realurl>https://www.applause.com/localization-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.001851</dltime>
+    <dlsize>469291</dlsize>
+    <checktime>14.058835</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/in-sprint-testing/</url>
+    <name>Applause In-Sprint Testing</name>
+    <parent line="21" column="42336">https://www.applause.com/manual-functional-testing/</parent>
+    <realurl>https://www.applause.com/in-sprint-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.080812</dltime>
+    <dlsize>535186</dlsize>
+    <checktime>13.782690</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/generative-ai-testing/</url>
+    <name>generative AI</name>
+    <parent line="21" column="42908">https://www.applause.com/ai-training-testing/</parent>
+    <realurl>https://www.applause.com/generative-ai-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.030401</dltime>
+    <dlsize>552183</dlsize>
+    <checktime>14.557622</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/better-conversational-assistants/</url>
+    <name>Watch Now</name>
+    <parent line="13" column="42873">https://www.applause.com/blog/when-voice-assistants-miss-the-mark/</parent>
+    <realurl>https://www.applause.com/resources/videos/better-conversational-assistants/</realurl>
+    <extern>0</extern>
+    <dltime>0.001207</dltime>
+    <dlsize>453783</dlsize>
+    <checktime>13.195989</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/retail/</url>
+    <name>Learn more about making quality a priority</name>
+    <parent line="13" column="39822">https://www.applause.com/blog/what-festive-shoppers-want-in-winter-2023/</parent>
+    <realurl>https://www.applause.com/retail/</realurl>
+    <extern>0</extern>
+    <dltime>0.015401</dltime>
+    <dlsize>537034</dlsize>
+    <checktime>0.422979</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/voice-ai-infographic/</url>
+    <name>Check out our summary infographic</name>
+    <parent line="13" column="35576">https://www.applause.com/blog/perceptions-and-use-of-ai-voice-apps/</parent>
+    <realurl>https://www.applause.com/voice-ai-infographic/</realurl>
+    <extern>0</extern>
+    <dltime>0.013602</dltime>
+    <dlsize>441944</dlsize>
+    <checktime>13.701218</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/state-of-digital-quality-2022/</url>
+    <name>State of Digital Quality Report</name>
+    <parent line="27" column="905">https://www.applause.com/blog/digital-accessibility-2024-survey-results/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/</realurl>
+    <extern>0</extern>
+    <dltime>0.003298</dltime>
+    <dlsize>435185</dlsize>
+    <checktime>6.139577</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/creativity-key-in-software-testing/</url>
+    <name>finding very specific types of participants and testers</name>
+    <parent line="13" column="38370">https://www.applause.com/blog/anatomy-of-an-applause-user-experience-study/</parent>
+    <realurl>https://www.applause.com/creativity-key-in-software-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.002177</dltime>
+    <dlsize>523508</dlsize>
+    <checktime>15.865131</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/record-year-digital-quality-testing/</url>
+    <name>Applause Delivers another Record-Breaking Year, as Global Demand for Digital Quality Testing Accelerates</name>
+    <parent line="13" column="40705">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/record-year-digital-quality-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.021155</dltime>
+    <dlsize>453276</dlsize>
+    <checktime>12.260610</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-receives-software-industry-awards/</url>
+    <name>Applause Recognized as “Company of the Year” and Software Industry Leader in 2022</name>
+    <parent line="13" column="41317">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-receives-software-industry-awards/</realurl>
+    <extern>0</extern>
+    <dltime>0.022096</dltime>
+    <dlsize>451534</dlsize>
+    <checktime>12.993155</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/consumers-plan-to-spend-less/</url>
+    <name>Applause Global Survey Finds More Than One Third Of Consumers Plan To Spend Less This Holiday Season, Even As They Return to Retail Stores</name>
+    <parent line="13" column="41899">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/consumers-plan-to-spend-less/</realurl>
+    <extern>0</extern>
+    <dltime>0.045812</dltime>
+    <dlsize>452541</dlsize>
+    <checktime>12.272172</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-launches-podcast-series/</url>
+    <name>Applause Launches New Podcast Series on Developing and Releasing Five-Star Digital Experiences</name>
+    <parent line="13" column="42527">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-launches-podcast-series/</realurl>
+    <extern>0</extern>
+    <dltime>0.022247</dltime>
+    <dlsize>453262</dlsize>
+    <checktime>12.114339</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/travel-apps-facing-delays/</url>
+    <name>Travel Apps Leave 37% of Users Unsatisfied When Facing Delays, Changes</name>
+    <parent line="13" column="43109">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/travel-apps-facing-delays/</realurl>
+    <extern>0</extern>
+    <dltime>0.002448</dltime>
+    <dlsize>451986</dlsize>
+    <checktime>12.879817</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/marker-trax-enlists-applause/</url>
+    <name>Marker Trax strengthens commitment to quality-assurance, enlists services of enterprise-grade testing company Applause</name>
+    <parent line="13" column="43663">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/marker-trax-enlists-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.028704</dltime>
+    <dlsize>452537</dlsize>
+    <checktime>12.442321</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-global-accessibility-survey-results/</url>
+    <name>Applause 2022 Global Accessibility Survey Reveals Organizations Prioritize Digital Accessibility but Fall Short of Conformance with WCAG 2.1 Standards</name>
+    <parent line="13" column="44284">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-global-accessibility-survey-results/</realurl>
+    <extern>0</extern>
+    <dltime>0.014787</dltime>
+    <dlsize>453243</dlsize>
+    <checktime>12.750256</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/digital-quality-report-examines-testing-data/</url>
+    <name>The State of Digital Quality Report Delivers the Industry’s Most Comprehensive Examination of Real-World Testing Data</name>
+    <parent line="13" column="44953">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/digital-quality-report-examines-testing-data/</realurl>
+    <extern>0</extern>
+    <dltime>0.014597</dltime>
+    <dlsize>457835</dlsize>
+    <checktime>12.238218</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/artificial-intelligence-excellence-awards/</url>
+    <name>Applause’s Emerson Sklar Named Winner in 2022 AI Excellence Awards</name>
+    <parent line="13" column="46196">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/artificial-intelligence-excellence-awards/</realurl>
+    <extern>0</extern>
+    <dltime>0.002463</dltime>
+    <dlsize>452400</dlsize>
+    <checktime>13.241116</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/ai-survey-high-expectations-low-satisfaction/</url>
+    <name>Applause Survey on AI and Customer Service Shows Higher Expectations but Lower Satisfaction</name>
+    <parent line="13" column="45589">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/ai-survey-high-expectations-low-satisfaction/</realurl>
+    <extern>0</extern>
+    <dltime>0.017903</dltime>
+    <dlsize>453446</dlsize>
+    <checktime>13.594089</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/survey-shows-impact-of-bad-digital-experiences/</url>
+    <name>Applause Survey Shows Customer Retention and Revenue Negatively Impacted by Just One Bad Digital Experience</name>
+    <parent line="13" column="46780">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/survey-shows-impact-of-bad-digital-experiences/</realurl>
+    <extern>0</extern>
+    <dltime>0.001162</dltime>
+    <dlsize>451733</dlsize>
+    <checktime>13.199480</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-delivers-record-breaking-year/</url>
+    <name>Applause Delivers Record-Breaking Year, Surpassing $150 Million in Annualized Recurring Revenue as Momentum for Testing and Digital Quality Accelerates Worldwide</name>
+    <parent line="13" column="47402">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-delivers-record-breaking-year/</realurl>
+    <extern>0</extern>
+    <dltime>0.031629</dltime>
+    <dlsize>456383</dlsize>
+    <checktime>14.015380</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-finds-online-spending-to-increase/</url>
+    <name>Applause Global Survey Finds Online Holiday Spending to Increase Even as Consumers Return to Retail Stores</name>
+    <parent line="13" column="48698">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-finds-online-spending-to-increase/</realurl>
+    <extern>0</extern>
+    <dltime>0.071163</dltime>
+    <dlsize>453564</dlsize>
+    <checktime>13.554658</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-a-top-workplace-4th-straight-year/</url>
+    <name>Applause Named One of Boston’s Top Places to Work for Fourth Straight Year; Wins Multiple International Awards</name>
+    <parent line="13" column="48073">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-a-top-workplace-4th-straight-year/</realurl>
+    <extern>0</extern>
+    <dltime>0.002231</dltime>
+    <dlsize>452295</dlsize>
+    <checktime>14.432486</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-nps-is-double-industry-average/</url>
+    <name>Applause Net Promoter Score Is Double the Industry Average</name>
+    <parent line="13" column="49316">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-nps-is-double-industry-average/</realurl>
+    <extern>0</extern>
+    <dltime>0.023151</dltime>
+    <dlsize>453246</dlsize>
+    <checktime>13.876137</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/survey-reveals-appeal-of-telehealth/</url>
+    <name>New Survey Reveals Appeal of Telehealth Services; 63% Plan to Increase Use Post-Pandemic</name>
+    <parent line="13" column="49879">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/survey-reveals-appeal-of-telehealth/</realurl>
+    <extern>0</extern>
+    <dltime>0.001667</dltime>
+    <dlsize>454316</dlsize>
+    <checktime>14.027494</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-appoints-chris-malone-ceo/</url>
+    <name>Applause Appoints Chris Malone to Chief Executive Officer</name>
+    <parent line="13" column="50466">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-appoints-chris-malone-ceo/</realurl>
+    <extern>0</extern>
+    <dltime>0.014258</dltime>
+    <dlsize>453351</dlsize>
+    <checktime>14.463492</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/jason-mills-joins-applause-board-directors/</url>
+    <name>Visionary Technologist Jason Mills Joins Applause Board of Directors</name>
+    <parent line="13" column="51030">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/jason-mills-joins-applause-board-directors/</realurl>
+    <extern>0</extern>
+    <dltime>0.002908</dltime>
+    <dlsize>451067</dlsize>
+    <checktime>14.359856</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/research-finds-silos-impact-quality-speed/</url>
+    <name>New Research From Applause Finds Siloed Development Processes Impact How Brands Serve Customers</name>
+    <parent line="13" column="52174">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/research-finds-silos-impact-quality-speed/</realurl>
+    <extern>0</extern>
+    <dltime>0.013781</dltime>
+    <dlsize>453817</dlsize>
+    <checktime>13.572198</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-codeless-automation-launches/</url>
+    <name>Applause Codeless Automation Accelerates Release Velocity</name>
+    <parent line="13" column="51608">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-codeless-automation-launches/</realurl>
+    <extern>0</extern>
+    <dltime>0.009788</dltime>
+    <dlsize>453191</dlsize>
+    <checktime>14.137518</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/product-excellence-platform-launches/</url>
+    <name>Applause Product Excellence Platform Empowers Brands to Deliver Exceptional Digital Experiences</name>
+    <parent line="13" column="52777">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/product-excellence-platform-launches/</realurl>
+    <extern>0</extern>
+    <dltime>0.020386</dltime>
+    <dlsize>456883</dlsize>
+    <checktime>14.329983</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-top-workplace-third-year-straight/</url>
+    <name>Boston Globe Names Applause a Top Place to Work for Third Year Straight</name>
+    <parent line="13" column="53942">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-top-workplace-third-year-straight/</realurl>
+    <extern>0</extern>
+    <dltime>0.001989</dltime>
+    <dlsize>454030</dlsize>
+    <checktime>14.228355</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-labs-to-improve-tester-experience/</url>
+    <name>Applause Labs Prototypes New Initiatives to Improve the Tester Experience</name>
+    <parent line="13" column="54528">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-labs-to-improve-tester-experience/</realurl>
+    <extern>0</extern>
+    <dltime>0.006185</dltime>
+    <dlsize>453648</dlsize>
+    <checktime>14.451633</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-bring-your-own-testers-launched/</url>
+    <name>Applause’s Bring Your Own Testers Feature Combines Fully Managed Service with Internal Teams for Comprehensive Test Coverage</name>
+    <parent line="13" column="55114">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-bring-your-own-testers-launched/</realurl>
+    <extern>0</extern>
+    <dltime>0.057955</dltime>
+    <dlsize>452266</dlsize>
+    <checktime>14.491234</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/launches-integrated-functional-testing/</url>
+    <name>Applause Launches Industry’s First Integrated Functional Testing Solution to Give Enterprises a Holistic View of Quality</name>
+    <parent line="13" column="55746">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/launches-integrated-functional-testing/</realurl>
+    <extern>0</extern>
+    <dltime>0.001314</dltime>
+    <dlsize>452034</dlsize>
+    <checktime>14.744476</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-infosys-digital-testing-services/</url>
+    <name>Applause Partners with Infosys to Launch Digital Testing Services for Clients</name>
+    <parent line="13" column="56376">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-infosys-digital-testing-services/</realurl>
+    <extern>0</extern>
+    <dltime>0.001706</dltime>
+    <dlsize>451708</dlsize>
+    <checktime>14.248330</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-accessibility-tool-fixes-key-issues/</url>
+    <name>New Applause Accessibility Tool Automatically Finds and Fixes Key Issues in Development</name>
+    <parent line="13" column="56969">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-accessibility-tool-fixes-key-issues/</realurl>
+    <extern>0</extern>
+    <dltime>0.001248</dltime>
+    <dlsize>453488</dlsize>
+    <checktime>13.022228</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-promotes-rob-mason-to-cto/</url>
+    <name>Applause Expands Its Engineering Investment With Promotion of Rob Mason to CTO</name>
+    <parent line="13" column="57565">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-promotes-rob-mason-to-cto/</realurl>
+    <extern>0</extern>
+    <dltime>0.012896</dltime>
+    <dlsize>451436</dlsize>
+    <checktime>13.935206</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-named-leader-in-crowdtesting/</url>
+    <name>Applause Named a Leader in Crowdtesting by NelsonHall</name>
+    <parent line="13" column="58145">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-named-leader-in-crowdtesting/</realurl>
+    <extern>0</extern>
+    <dltime>0.114928</dltime>
+    <dlsize>452088</dlsize>
+    <checktime>13.819978</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-ai-testing-solution-detects-bias/</url>
+    <name>Applause Re-Invents AI Testing With New Solution That Detects Bias and Sources Training Data at Scale to Make Apps More Human</name>
+    <parent line="13" column="58706">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-ai-testing-solution-detects-bias/</realurl>
+    <extern>0</extern>
+    <dltime>0.010332</dltime>
+    <dlsize>453077</dlsize>
+    <checktime>14.173119</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-launches-applause-labs/</url>
+    <name>Applause Focuses on the Future of Testing With Launch of Applause Labs</name>
+    <parent line="13" column="59334">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-launches-applause-labs/</realurl>
+    <extern>0</extern>
+    <dltime>0.019793</dltime>
+    <dlsize>452107</dlsize>
+    <checktime>13.636238</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-builds-momentum-with-new-cmo-lisa-landa/</url>
+    <name>Applause Builds on Market Momentum as Lisa Landa Joins as CMO</name>
+    <parent line="13" column="60477">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-builds-momentum-with-new-cmo-lisa-landa/</realurl>
+    <extern>0</extern>
+    <dltime>0.001263</dltime>
+    <dlsize>450432</dlsize>
+    <checktime>14.497742</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-wins-three-stevies-2019/</url>
+    <name>Applause Honored With Three Stevies in 2019 American Business Awards®</name>
+    <parent line="13" column="59897">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-wins-three-stevies-2019/</realurl>
+    <extern>0</extern>
+    <dltime>0.022863</dltime>
+    <dlsize>451973</dlsize>
+    <checktime>14.861545</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-announces-the-2019-retail-quality-report/</url>
+    <name>Applause Announces the 2019 Retail Quality Report</name>
+    <parent line="13" column="61066">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-announces-the-2019-retail-quality-report/</realurl>
+    <extern>0</extern>
+    <dltime>0.017157</dltime>
+    <dlsize>451908</dlsize>
+    <checktime>15.436919</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-at-shoptalk-and-irce-the-state-of-retail/</url>
+    <name>Applause Leading the Conversation in Retail at Shoptalk and IRCE</name>
+    <parent line="13" column="61643">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-at-shoptalk-and-irce-the-state-of-retail/</realurl>
+    <extern>0</extern>
+    <dltime>0.034471</dltime>
+    <dlsize>452118</dlsize>
+    <checktime>14.884144</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/united-way-honors-applause-shining-star-award/</url>
+    <name>Applause Honored with United Way Shining Star Award</name>
+    <parent line="13" column="62232">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/united-way-honors-applause-shining-star-award/</realurl>
+    <extern>0</extern>
+    <dltime>0.026792</dltime>
+    <dlsize>451565</dlsize>
+    <checktime>16.946215</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-to-speak-at-nrf-and-alexa-world-fair/</url>
+    <name>Applause to Speak at NRF and Alexa Conference</name>
+    <parent line="13" column="62804">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-to-speak-at-nrf-and-alexa-world-fair/</realurl>
+    <extern>0</extern>
+    <dltime>0.024494</dltime>
+    <dlsize>452518</dlsize>
+    <checktime>14.756600</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-boston-globe-top-places-to-work-2018/</url>
+    <name>The Boston Globe Names Applause a Top Place to Work for 2018</name>
+    <parent line="13" column="63370">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-boston-globe-top-places-to-work-2018/</realurl>
+    <extern>0</extern>
+    <dltime>0.007766</dltime>
+    <dlsize>451292</dlsize>
+    <checktime>14.877318</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/goldman-sachs-honors-applause-entrepreneurship/</url>
+    <name>Applause Honored by Goldman Sachs for Entrepreneurship</name>
+    <parent line="13" column="63952">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/goldman-sachs-honors-applause-entrepreneurship/</realurl>
+    <extern>0</extern>
+    <dltime>0.021546</dltime>
+    <dlsize>451201</dlsize>
+    <checktime>13.732889</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/liza-landsman-joins-applause-board-of-directors/</url>
+    <name>Liza Landsman Joins Applause Board of Directors</name>
+    <parent line="13" column="64529">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/liza-landsman-joins-applause-board-of-directors/</realurl>
+    <extern>0</extern>
+    <dltime>0.001769</dltime>
+    <dlsize>453903</dlsize>
+    <checktime>13.853229</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/youtuber-director-casey-neistat-to-speak-at-dxc18/</url>
+    <name>Applause Selects Popular YouTuber and Film Director Casey Neistat to Keynote DigitalXChange ‘18</name>
+    <parent line="13" column="65103">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/youtuber-director-casey-neistat-to-speak-at-dxc18/</realurl>
+    <extern>0</extern>
+    <dltime>0.040892</dltime>
+    <dlsize>452417</dlsize>
+    <checktime>16.059046</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-brings-digitalxchange-18-to-boston/</url>
+    <name>Applause Announces DigitalXChange ‘18</name>
+    <parent line="13" column="65721">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-brings-digitalxchange-18-to-boston/</realurl>
+    <extern>0</extern>
+    <dltime>0.041795</dltime>
+    <dlsize>451014</dlsize>
+    <checktime>13.917546</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/industry-first-crowd-testing-for-amazon-alexa/</url>
+    <name>Applause Launches Industry’s First Crowd testing Offering for Amazon Alexa</name>
+    <parent line="13" column="66277">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/industry-first-crowd-testing-for-amazon-alexa/</realurl>
+    <extern>0</extern>
+    <dltime>0.012772</dltime>
+    <dlsize>452355</dlsize>
+    <checktime>13.863247</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-honored-united-way-good-neighbor-award/</url>
+    <name>Applause Honored with United Way Good Neighbor Award</name>
+    <parent line="13" column="66873">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-honored-united-way-good-neighbor-award/</realurl>
+    <extern>0</extern>
+    <dltime>0.015769</dltime>
+    <dlsize>450783</dlsize>
+    <checktime>13.106077</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/robert-mason-joins-applause-as-svp-engineering/</url>
+    <name>Applause Bolsters Engineering Leadership with Robert Mason as SVP</name>
+    <parent line="13" column="67449">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/robert-mason-joins-applause-as-svp-engineering/</realurl>
+    <extern>0</extern>
+    <dltime>0.006194</dltime>
+    <dlsize>451222</dlsize>
+    <checktime>12.850335</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/leader-in-crowdtesting-nelsonhall-applause/</url>
+    <name>Applause Recognized as a Leader in Crowd testing by NelsonHall</name>
+    <parent line="13" column="68033">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/leader-in-crowdtesting-nelsonhall-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.013541</dltime>
+    <dlsize>451420</dlsize>
+    <checktime>12.827372</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-ranked-among-fastest-growing-companies/</url>
+    <name>Applause Ranked Among the Fastest Growing Companies in North America on Deloitte’s 2017 Technology Fast 500™</name>
+    <parent line="13" column="68614">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-ranked-among-fastest-growing-companies/</realurl>
+    <extern>0</extern>
+    <dltime>0.010369</dltime>
+    <dlsize>453225</dlsize>
+    <checktime>13.248502</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/digital-omnichannel-user-feedback-from-applause/</url>
+    <name>Applause Launches Digital and OmniChannel User Feedback Solution</name>
+    <parent line="13" column="69832">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/digital-omnichannel-user-feedback-from-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.026347</dltime>
+    <dlsize>452238</dlsize>
+    <checktime>13.231276</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/paypal-executive-rahul-shah-joins-applause/</url>
+    <name>PayPal Executive Rahul Shah Joins Applause Executive Team To Scale Customer Success For Long Term Growth</name>
+    <parent line="13" column="75325">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/paypal-executive-rahul-shah-joins-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.009125</dltime>
+    <dlsize>451672</dlsize>
+    <checktime>0.152947</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-first-annual-customer-conference-soldout/</url>
+    <name>Applause’s First Annual Customer Conference is Sold Out!</name>
+    <parent line="13" column="69249">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-first-annual-customer-conference-soldout/</realurl>
+    <extern>0</extern>
+    <dltime>0.022295</dltime>
+    <dlsize>450948</dlsize>
+    <checktime>15.867199</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/vista-equity-partners-acquires-applause/</url>
+    <name>Applause Announces Acquisition by Vista Equity Partners</name>
+    <parent line="13" column="70413">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/vista-equity-partners-acquires-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.021985</dltime>
+    <dlsize>452950</dlsize>
+    <checktime>14.101654</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-improves-blueport-omnichannel-experience/</url>
+    <name>Blueport Commerce Leverages Applause to Deliver Unmatched Omnichannel Digital Experiences for Furniture Retailers</name>
+    <parent line="13" column="71581">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-improves-blueport-omnichannel-experience/</realurl>
+    <extern>0</extern>
+    <dltime>0.004578</dltime>
+    <dlsize>453282</dlsize>
+    <checktime>14.231089</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/upstream-flawless-mobile-services-with-applause/</url>
+    <name>Applause Ensures Upstream’s Delivery Of Flawless Mobile Services To More Than 600 Million Consumers</name>
+    <parent line="13" column="72841">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/upstream-flawless-mobile-services-with-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.242976</dltime>
+    <dlsize>453840</dlsize>
+    <checktime>13.871547</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/first-annual-user-conference-digitalxchange-17/</url>
+    <name>Applause Announces DigitalXChange ’17, its First Annual User Conference</name>
+    <parent line="13" column="70984">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/first-annual-user-conference-digitalxchange-17/</realurl>
+    <extern>0</extern>
+    <dltime>0.296024</dltime>
+    <dlsize>451388</dlsize>
+    <checktime>14.534721</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-community-surpasses-300-thousand-members/</url>
+    <name>Applause Cements its Market Leadership as Crowd testing Community Surpasses 300,000 Members</name>
+    <parent line="13" column="72223">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-community-surpasses-300-thousand-members/</realurl>
+    <extern>0</extern>
+    <dltime>0.004690</dltime>
+    <dlsize>452706</dlsize>
+    <checktime>14.454699</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-crowdtesting-in-gartners-magic-quadrant/</url>
+    <name>Applause is the Only Crowd testing Company Included in Gartner’s Magic Quadrant for Application Testing Services, Worldwide</name>
+    <parent line="13" column="73466">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-crowdtesting-in-gartners-magic-quadrant/</realurl>
+    <extern>0</extern>
+    <dltime>0.024037</dltime>
+    <dlsize>453132</dlsize>
+    <checktime>13.049090</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/syus-ensuring-quality-with-applause/</url>
+    <name>Syús Selects Applause To Ensure Solution Quality Meets The Highest Standards Required By Surgical Teams At Leading Health Systems</name>
+    <parent line="13" column="74103">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/syus-ensuring-quality-with-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.002912</dltime>
+    <dlsize>453266</dlsize>
+    <checktime>12.843678</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/credit-suisse-accenture-led-f-round-closed/</url>
+    <name>Applause Closes $35 Million F Round Led By Credit Suisse And Accenture</name>
+    <parent line="13" column="74740">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/credit-suisse-accenture-led-f-round-closed/</realurl>
+    <extern>0</extern>
+    <dltime>0.001126</dltime>
+    <dlsize>454509</dlsize>
+    <checktime>13.516693</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/international-business-award-applause-stevie-2016/</url>
+    <name>Applause Wins Silver Stevie Award In 2016 International Business Awards</name>
+    <parent line="13" column="76568">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/international-business-award-applause-stevie-2016/</realurl>
+    <extern>0</extern>
+    <dltime>0.001783</dltime>
+    <dlsize>452581</dlsize>
+    <checktime>13.978508</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-makes-fifth-consecutive-inc-5000-list/</url>
+    <name>Applause Makes Fifth Consecutive Inc. 5000 List Of America’s Fastest-Growing Private Companies</name>
+    <parent line="13" column="75948">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-makes-fifth-consecutive-inc-5000-list/</realurl>
+    <extern>0</extern>
+    <dltime>0.098412</dltime>
+    <dlsize>453643</dlsize>
+    <checktime>14.755966</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-and-breezeworks-extend-partnership/</url>
+    <name>Applause Extends Partnership With Breezeworks™ To Provide High Quality Digital Experiences For Independent Service Businesses</name>
+    <parent line="13" column="77161">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-and-breezeworks-extend-partnership/</realurl>
+    <extern>0</extern>
+    <dltime>0.002990</dltime>
+    <dlsize>453263</dlsize>
+    <checktime>16.477148</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-wins-siia-award/</url>
+    <name>Applause Wins SIIA Business Technology CODiE Award For Best Business Intelligence Tools &amp; Platforms</name>
+    <parent line="13" column="77784">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-wins-siia-award/</realurl>
+    <extern>0</extern>
+    <dltime>0.001821</dltime>
+    <dlsize>452051</dlsize>
+    <checktime>15.646421</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-and-passport-extend-partnership/</url>
+    <name>Applause Extends Partnership With Passport To Provide Highest Quality Parking And Transit Applications</name>
+    <parent line="13" column="78383">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-and-passport-extend-partnership/</realurl>
+    <extern>0</extern>
+    <dltime>0.016434</dltime>
+    <dlsize>454037</dlsize>
+    <checktime>15.632864</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-siia-business-technology-codie-finalist/</url>
+    <name>Applause Named SIIA Business Technology CODiE Award Finalist For Its Mobile Beta Management Offering</name>
+    <parent line="13" column="79604">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-siia-business-technology-codie-finalist/</realurl>
+    <extern>0</extern>
+    <dltime>0.012569</dltime>
+    <dlsize>452591</dlsize>
+    <checktime>15.620352</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/american-business-awards-applause-stevie-2016/</url>
+    <name>Applause Honored As Bronze Stevie® Award Winner In 2016 American Business Awards</name>
+    <parent line="13" column="79000">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/american-business-awards-applause-stevie-2016/</realurl>
+    <extern>0</extern>
+    <dltime>0.027979</dltime>
+    <dlsize>452042</dlsize>
+    <checktime>16.183114</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-helps-american-red-cross-digital-leader/</url>
+    <name>Applause Helps American Red Cross Become Digital Leader In Emergency Preparedness</name>
+    <parent line="13" column="80231">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-helps-american-red-cross-digital-leader/</realurl>
+    <extern>0</extern>
+    <dltime>0.005893</dltime>
+    <dlsize>452382</dlsize>
+    <checktime>16.213217</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-messageloud-testing-driving-safety-app/</url>
+    <name>messageLOUD Turns To Applause To Test Its Driving Safety App, Designed To Eliminate Texting and Emailing While Driving</name>
+    <parent line="13" column="81448">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-messageloud-testing-driving-safety-app/</realurl>
+    <extern>0</extern>
+    <dltime>0.018814</dltime>
+    <dlsize>454396</dlsize>
+    <checktime>14.647046</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/michael-weinberg-joins-applause-general-manager/</url>
+    <name>Applause Announces Addition Of Michael Weinberg As General Manager Of Applause Israel</name>
+    <parent line="13" column="80838">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/michael-weinberg-joins-applause-general-manager/</realurl>
+    <extern>0</extern>
+    <dltime>0.021471</dltime>
+    <dlsize>440215</dlsize>
+    <checktime>16.208567</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-announces-new-cto-thom-kenney/</url>
+    <name>Applause Announces Addition Of Thom Kenney To Its Executive Team As CTO</name>
+    <parent line="13" column="82082">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-announces-new-cto-thom-kenney/</realurl>
+    <extern>0</extern>
+    <dltime>0.002442</dltime>
+    <dlsize>449789</dlsize>
+    <checktime>13.247588</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/utest-launches-professional-network-qa-testers/</url>
+    <name>uTest Launches Professional Network Designed Specifically For Software Testers</name>
+    <parent line="13" column="82667">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/utest-launches-professional-network-qa-testers/</realurl>
+    <extern>0</extern>
+    <dltime>0.002847</dltime>
+    <dlsize>440026</dlsize>
+    <checktime>13.295834</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/american-business-award-applause-gold-stevie-2015/</url>
+    <name>Applause Honored As Gold Stevie® Award Winner At The 2015 American Business Awards</name>
+    <parent line="13" column="83271">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/american-business-award-applause-gold-stevie-2015/</realurl>
+    <extern>0</extern>
+    <dltime>0.015035</dltime>
+    <dlsize>452828</dlsize>
+    <checktime>12.317664</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-test-automation-solution-mobile-wearable/</url>
+    <name>Applause Announces Test Automation Solution For Mobile, Wearable And Web Apps</name>
+    <parent line="13" column="83882">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-test-automation-solution-mobile-wearable/</realurl>
+    <extern>0</extern>
+    <dltime>0.001457</dltime>
+    <dlsize>453677</dlsize>
+    <checktime>13.091642</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/runkeeper-and-waze-winners-of-first-ovation-award/</url>
+    <name>RunKeeper and Waze Top the List of Winners for the First-Ever Ovation Awards for Apps</name>
+    <parent line="13" column="84488">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/runkeeper-and-waze-winners-of-first-ovation-award/</realurl>
+    <extern>0</extern>
+    <dltime>0.023897</dltime>
+    <dlsize>452735</dlsize>
+    <checktime>13.305899</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-enterprise-grade-mobile-beta-management/</url>
+    <name>Applause Launches Enterprise-Grade Mobile Beta Management Offering</name>
+    <parent line="13" column="85100">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-enterprise-grade-mobile-beta-management/</realurl>
+    <extern>0</extern>
+    <dltime>0.021366</dltime>
+    <dlsize>452442</dlsize>
+    <checktime>13.757847</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/the-ovation-award-apps-that-earn-applause/</url>
+    <name>Introducing The Ovation Awards – Recognizing The Apps That Earn The Most User Applause</name>
+    <parent line="13" column="85686">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/the-ovation-award-apps-that-earn-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.001127</dltime>
+    <dlsize>452372</dlsize>
+    <checktime>13.697745</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-launches-arc-application-resource-center/</url>
+    <name>Applause Launches ARC – The Application Resource Center</name>
+    <parent line="13" column="86298">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-launches-arc-application-resource-center/</realurl>
+    <extern>0</extern>
+    <dltime>0.001311</dltime>
+    <dlsize>453912</dlsize>
+    <checktime>14.494903</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/crittercism-improves-mobile-app-quality-applause/</url>
+    <name>Applause Teams Up With Crittercism to Improve Mobile App Quality</name>
+    <parent line="13" column="86887">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/crittercism-improves-mobile-app-quality-applause/</realurl>
+    <extern>0</extern>
+    <dltime>0.037923</dltime>
+    <dlsize>451451</dlsize>
+    <checktime>13.812557</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-ibm-collab-mobile-app-quality-solutions/</url>
+    <name>Applause Collaborates On Mobile Application Quality Solutions With IBM</name>
+    <parent line="13" column="87477">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-ibm-collab-mobile-app-quality-solutions/</realurl>
+    <extern>0</extern>
+    <dltime>0.019716</dltime>
+    <dlsize>452798</dlsize>
+    <checktime>13.777377</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/forbes-names-utest-7th-most-promising-company/</url>
+    <name>uTest Named 7th Most Promising Company In America by Forbes Magazine</name>
+    <parent line="13" column="88719">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/forbes-names-utest-7th-most-promising-company/</realurl>
+    <extern>0</extern>
+    <dltime>0.012336</dltime>
+    <dlsize>451993</dlsize>
+    <checktime>15.610693</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/utest-changes-name-to-applause-acquires-testhub/</url>
+    <name>uTest Changes Name To Applause; Announces Acquisition Of Leading EU Crowdtesting Firm, Testhub, In Multi-Million Dollar Deal</name>
+    <parent line="13" column="88072">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/utest-changes-name-to-applause-acquires-testhub/</realurl>
+    <extern>0</extern>
+    <dltime>0.014700</dltime>
+    <dlsize>455895</dlsize>
+    <checktime>16.135762</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/utest-closes-series-e-round-led-by-goldman-sachs/</url>
+    <name>uTest Closes $43 Million Series E Round Led By Goldman Sachs</name>
+    <parent line="13" column="89311">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/utest-closes-series-e-round-led-by-goldman-sachs/</realurl>
+    <extern>0</extern>
+    <dltime>0.024607</dltime>
+    <dlsize>455875</dlsize>
+    <checktime>14.866303</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/utest-adds-chief-financial-officer-executive-team/</url>
+    <name>uTest Adds Chief Financial Officer To Executive Team</name>
+    <parent line="13" column="89898">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/utest-adds-chief-financial-officer-executive-team/</realurl>
+    <extern>0</extern>
+    <dltime>0.002208</dltime>
+    <dlsize>451949</dlsize>
+    <checktime>14.582182</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/applause-index-measuring-the-state-of-app-economy/</url>
+    <name>Applause Launches Applause Index to Measure the State of the Apps Economy</name>
+    <parent line="13" column="90478">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/applause-index-measuring-the-state-of-app-economy/</realurl>
+    <extern>0</extern>
+    <dltime>0.004413</dltime>
+    <dlsize>453928</dlsize>
+    <checktime>14.984514</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/utest-acquires-apphance-in-seven-figure-deal/</url>
+    <name>uTest Acquires Mobile App Tool Company, Apphance, In Seven-Figure Deal</name>
+    <parent line="13" column="91075">https://www.applause.com/newsroom/all-press-releases/</parent>
+    <realurl>https://www.applause.com/utest-acquires-apphance-in-seven-figure-deal/</realurl>
+    <extern>0</extern>
+    <dltime>0.023588</dltime>
+    <dlsize>454223</dlsize>
+    <checktime>14.512909</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/meet-the-applause-testing-community/</url>
+    <name>Meet the Applause Testing Community</name>
+    <parent line="13" column="33763">https://www.applause.com/applause-named-top-place-to-work-by-boston-globe</parent>
+    <realurl>https://www.applause.com/resources/videos/meet-the-applause-testing-community/</realurl>
+    <extern>0</extern>
+    <dltime>0.021417</dltime>
+    <dlsize>451883</dlsize>
+    <checktime>13.695306</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/the-future-of-generative-ai-chatgpt/</url>
+    <name>The Future of Generative AI</name>
+    <parent line="13" column="34138">https://www.applause.com/applause-named-top-place-to-work-by-boston-globe</parent>
+    <realurl>https://www.applause.com/blog/the-future-of-generative-ai-chatgpt/</realurl>
+    <extern>0</extern>
+    <dltime>0.001111</dltime>
+    <dlsize>161220</dlsize>
+    <checktime>17.084175</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/how-to-land-dream-software-testing-job/</url>
+    <name>Read More</name>
+    <parent line="13" column="50203">https://www.applause.com/transaction-validation/</parent>
+    <realurl>https://www.applause.com/blog/how-to-land-dream-software-testing-job/</realurl>
+    <extern>0</extern>
+    <dltime>0.003851</dltime>
+    <dlsize>149037</dlsize>
+    <checktime>16.189618</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/survey-shows-ai-voice-app-usage-on-the-rise/</url>
+    <name>voice applications, chatbots, and ChatGPT</name>
+    <parent line="13" column="32767">https://www.applause.com/applause-generative-ai-survey-reveals-bias/</parent>
+    <realurl>https://www.applause.com/blog/survey-shows-ai-voice-app-usage-on-the-rise/</realurl>
+    <extern>0</extern>
+    <dltime>0.001620</dltime>
+    <dlsize>141931</dlsize>
+    <checktime>19.269790</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/considerations-for-testing-blockchain/</url>
+    <name>Read More</name>
+    <parent line="13" column="42457">https://www.applause.com/transaction-validation/</parent>
+    <realurl>https://www.applause.com/blog/considerations-for-testing-blockchain/</realurl>
+    <extern>0</extern>
+    <dltime>0.000973</dltime>
+    <dlsize>148427</dlsize>
+    <checktime>17.808155</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/what-is-the-safe-agile-framework/</url>
+    <name>Read Now</name>
+    <parent line="13" column="44067">https://www.applause.com/automation-pilot-program/</parent>
+    <realurl>https://www.applause.com/blog/what-is-the-safe-agile-framework/</realurl>
+    <extern>0</extern>
+    <dltime>0.001148</dltime>
+    <dlsize>156721</dlsize>
+    <checktime>0.238459</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/avoid-questionable-datasets-to-train-ai/</url>
+    <name>Using Questionable Datasets to Train AI Could Come With High Costs</name>
+    <parent line="13" column="35759">https://www.applause.com/ai-voice-application-and-chatgpt-survey/</parent>
+    <realurl>https://www.applause.com/blog/avoid-questionable-datasets-to-train-ai/</realurl>
+    <extern>0</extern>
+    <dltime>0.001388</dltime>
+    <dlsize>144987</dlsize>
+    <checktime>13.832789</checktime>
+    <level>3</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/how-voice-elevates-omnichannel-experiences/</url>
+    <parent line="13" column="44961">https://www.applause.com/amazon-alexa/</parent>
+    <realurl>https://www.applause.com/blog/how-voice-elevates-omnichannel-experiences/</realurl>
+    <extern>0</extern>
+    <dltime>0.004575</dltime>
+    <dlsize>147194</dlsize>
+    <checktime>0.126011</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/what-voice-search-means-to-future-of-retail/</url>
+    <parent line="13" column="48057">https://www.applause.com/amazon-alexa/</parent>
+    <realurl>https://www.applause.com/blog/what-voice-search-means-to-future-of-retail/</realurl>
+    <extern>0</extern>
+    <dltime>0.001762</dltime>
+    <dlsize>143660</dlsize>
+    <checktime>0.105124</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/inclusivity-streaming-gaming-entertainment/</url>
+    <name>Read Now</name>
+    <parent line="13" column="42599">https://www.applause.com/wcag/</parent>
+    <realurl>https://www.applause.com/blog/inclusivity-streaming-gaming-entertainment/</realurl>
+    <extern>0</extern>
+    <dltime>0.027145</dltime>
+    <dlsize>154684</dlsize>
+    <checktime>14.082307</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/benchmarking-progress-digital-accessibility/</url>
+    <name>Read Now</name>
+    <parent line="13" column="48685">https://www.applause.com/wcag/</parent>
+    <realurl>https://www.applause.com/blog/benchmarking-progress-digital-accessibility/</realurl>
+    <extern>0</extern>
+    <dltime>0.001804</dltime>
+    <dlsize>144700</dlsize>
+    <checktime>14.451936</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/building-next-generation-loyalty-programs/</url>
+    <name>Read More</name>
+    <parent line="13" column="41900">https://www.applause.com/digital-wallet-testing/</parent>
+    <realurl>https://www.applause.com/blog/building-next-generation-loyalty-programs/</realurl>
+    <extern>0</extern>
+    <dltime>0.000885</dltime>
+    <dlsize>145299</dlsize>
+    <checktime>15.136312</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/build-generative-ai-application-test-plan/</url>
+    <name>Read More</name>
+    <parent line="13" column="48127">https://www.applause.com/voice-ai-testing/</parent>
+    <realurl>https://www.applause.com/blog/build-generative-ai-application-test-plan/</realurl>
+    <extern>0</extern>
+    <dltime>0.001307</dltime>
+    <dlsize>155319</dlsize>
+    <checktime>0.135097</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/3-digital-payment-testing-factors/</url>
+    <name>Read More</name>
+    <parent line="13" column="44886">https://www.applause.com/digital-wallet-testing/</parent>
+    <realurl>https://www.applause.com/blog/3-digital-payment-testing-factors/</realurl>
+    <extern>0</extern>
+    <dltime>0.000839</dltime>
+    <dlsize>141222</dlsize>
+    <checktime>15.876122</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/alexa-skills/</url>
+    <name>Learn More</name>
+    <parent line="13" column="36523">https://www.applause.com/amazon-alexa/</parent>
+    <realurl>https://www.applause.com/alexa-skills/</realurl>
+    <extern>0</extern>
+    <dltime>0.024969</dltime>
+    <dlsize>529411</dlsize>
+    <checktime>14.137107</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/alexa-voice-services/</url>
+    <name>Learn More</name>
+    <parent line="13" column="37739">https://www.applause.com/amazon-alexa/</parent>
+    <realurl>https://www.applause.com/alexa-voice-services/</realurl>
+    <extern>0</extern>
+    <dltime>0.006991</dltime>
+    <dlsize>545315</dlsize>
+    <checktime>15.212442</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/ai-virtual-assistants-are-ready-to-help/</url>
+    <parent line="13" column="41952">https://www.applause.com/amazon-alexa/</parent>
+    <realurl>https://www.applause.com/blog/ai-virtual-assistants-are-ready-to-help/</realurl>
+    <extern>0</extern>
+    <dltime>0.004587</dltime>
+    <dlsize>143789</dlsize>
+    <checktime>14.814311</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/wearables/</url>
+    <name>watches</name>
+    <parent line="21" column="32420">https://www.applause.com/google-assistant/</parent>
+    <realurl>https://www.applause.com/wearables/</realurl>
+    <extern>0</extern>
+    <dltime>0.001615</dltime>
+    <dlsize>465612</dlsize>
+    <checktime>10.787514</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/functional-testing-types-examples/</url>
+    <name>types of testing</name>
+    <parent line="13" column="36241">https://www.applause.com/localization-testing/</parent>
+    <realurl>https://www.applause.com/blog/functional-testing-types-examples/</realurl>
+    <extern>0</extern>
+    <dltime>0.007328</dltime>
+    <dlsize>164121</dlsize>
+    <checktime>0.125928</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/case-studies/master-lock-iot/video/</url>
+    <name>Master Lock</name>
+    <parent line="13" column="56299">https://www.applause.com/blog/qa-software-testing-partner-criteria/</parent>
+    <realurl>https://www.applause.com/resources/case-studies/master-lock-iot/video/</realurl>
+    <extern>0</extern>
+    <dltime>0.003193</dltime>
+    <dlsize>100659</dlsize>
+    <checktime>0.139745</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/avoiding-bias-traps-with-red-teaming/</url>
+    <name>Read More</name>
+    <parent line="13" column="43752">https://www.applause.com/exploratory-testing/</parent>
+    <realurl>https://www.applause.com/blog/avoiding-bias-traps-with-red-teaming/</realurl>
+    <extern>0</extern>
+    <dltime>0.001676</dltime>
+    <dlsize>144729</dlsize>
+    <checktime>15.081465</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/blog/understanding-generative-ai-faqs/</url>
+    <name>Read More</name>
+    <parent line="13" column="48876">https://www.applause.com/exploratory-testing/</parent>
+    <realurl>https://www.applause.com/blog/understanding-generative-ai-faqs/</realurl>
+    <extern>0</extern>
+    <dltime>0.003593</dltime>
+    <dlsize>147825</dlsize>
+    <checktime>18.540775</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/meet-your-new-shift-left-partner/</url>
+    <name>how Applause fits in</name>
+    <parent line="13" column="49970">https://www.applause.com/blog/qa-software-testing-partner-criteria/</parent>
+    <realurl>https://www.applause.com/meet-your-new-shift-left-partner/</realurl>
+    <extern>0</extern>
+    <dltime>0.001373</dltime>
+    <dlsize>444746</dlsize>
+    <checktime>14.689679</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/shift-left-has-already-happened/</url>
+    <name>An Applause survey</name>
+    <parent line="13" column="36883">https://www.applause.com/blog/dont-neglect-quality-in-devops/</parent>
+    <realurl>https://www.applause.com/shift-left-has-already-happened/</realurl>
+    <extern>0</extern>
+    <dltime>0.013889</dltime>
+    <dlsize>444597</dlsize>
+    <checktime>12.142615</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/state-of-digital-quality-2022/report/</url>
+    <name>Download the Report</name>
+    <parent line="13" column="2802">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/report/</realurl>
+    <extern>0</extern>
+    <dltime>0.016667</dltime>
+    <dlsize>473657</dlsize>
+    <checktime>4.484013</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/europe/</url>
+    <parent line="13" column="12826">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/europe/</realurl>
+    <extern>0</extern>
+    <dltime>0.002746</dltime>
+    <dlsize>473345</dlsize>
+    <checktime>4.538287</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/retail/</url>
+    <parent line="13" column="15712">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/retail/</realurl>
+    <extern>0</extern>
+    <dltime>0.038449</dltime>
+    <dlsize>472713</dlsize>
+    <checktime>4.253295</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/media-telco/</url>
+    <parent line="13" column="18514">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/media-telco/</realurl>
+    <extern>0</extern>
+    <dltime>0.015366</dltime>
+    <dlsize>472756</dlsize>
+    <checktime>4.937376</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/finance/</url>
+    <name>financial services</name>
+    <parent line="13" column="45886">https://www.applause.com/blog/5-top-payment-testing-questions-answered/</parent>
+    <realurl>https://www.applause.com/finance/</realurl>
+    <extern>0</extern>
+    <dltime>0.025743</dltime>
+    <dlsize>536930</dlsize>
+    <checktime>0.154986</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/finance/</url>
+    <parent line="13" column="21380">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/finance/</realurl>
+    <extern>0</extern>
+    <dltime>0.002817</dltime>
+    <dlsize>473346</dlsize>
+    <checktime>5.450918</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/travel/</url>
+    <parent line="13" column="24214">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/travel/</realurl>
+    <extern>0</extern>
+    <dltime>0.015953</dltime>
+    <dlsize>472268</dlsize>
+    <checktime>5.670849</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/healthcare/</url>
+    <parent line="13" column="27151">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/healthcare/</realurl>
+    <extern>0</extern>
+    <dltime>0.015614</dltime>
+    <dlsize>473349</dlsize>
+    <checktime>5.275329</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>/state-of-digital-quality-2022/software/</url>
+    <parent line="13" column="30103">https://www.applause.com/state-of-digital-quality-2022/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-2022/software/</realurl>
+    <extern>0</extern>
+    <dltime>0.015062</dltime>
+    <dlsize>473290</dlsize>
+    <checktime>5.539678</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/online-gambling/</url>
+    <name>Betting and gambling</name>
+    <parent line="13" column="46795">https://www.applause.com/blog/5-top-payment-testing-questions-answered/</parent>
+    <realurl>https://www.applause.com/online-gambling/</realurl>
+    <extern>0</extern>
+    <dltime>0.014086</dltime>
+    <dlsize>538351</dlsize>
+    <checktime>13.222189</checktime>
+    <level>4</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/go-beyond-good-enough/</url>
+    <name>survey</name>
+    <parent line="13" column="46840">https://www.applause.com/blog/what-is-digital-accessibility-testing/</parent>
+    <realurl>https://www.applause.com/go-beyond-good-enough/</realurl>
+    <extern>0</extern>
+    <checktime>16.117278</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/case-studies/benefit-cosmetics/video/</url>
+    <name>Benefit Cosmetics</name>
+    <parent line="13" column="43068">https://www.applause.com/blog/build-a-strategy-for-localization-testing/</parent>
+    <realurl>https://www.applause.com/resources/case-studies/benefit-cosmetics/video/</realurl>
+    <extern>0</extern>
+    <checktime>21.138171</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/travel/</url>
+    <name>travel and hospitality</name>
+    <parent line="13" column="44057">https://www.applause.com/blog/applause-pep-exceptional-experiences/</parent>
+    <realurl>https://www.applause.com/travel/</realurl>
+    <extern>0</extern>
+    <checktime>0.333026</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/product-sessions-live-getsafe/</url>
+    <name>AI has the ability to revolutionize software</name>
+    <parent line="13" column="42246">https://www.applause.com/blog/ai-and-the-future-of-testing/</parent>
+    <realurl>https://www.applause.com/resources/videos/product-sessions-live-getsafe/</realurl>
+    <extern>0</extern>
+    <checktime>12.422889</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/smart-homes/</url>
+    <name>home appliances</name>
+    <parent line="21" column="32636">https://www.applause.com/alexa-voice-services/</parent>
+    <realurl>https://www.applause.com/smart-homes/</realurl>
+    <extern>0</extern>
+    <checktime>13.213609</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/healthcare/</url>
+    <name>telehealth provider</name>
+    <parent line="13" column="43021">https://www.applause.com/blog/functional-testing-types-examples/</parent>
+    <realurl>https://www.applause.com/healthcare/</realurl>
+    <extern>0</extern>
+    <checktime>11.489950</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/automotive-testing/</url>
+    <name>automobile manufacturer</name>
+    <parent line="13" column="47136">https://www.applause.com/blog/functional-testing-types-examples/</parent>
+    <realurl>https://www.applause.com/automotive-testing/</realurl>
+    <extern>0</extern>
+    <checktime>11.900739</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/security-testing/</url>
+    <name>security testing</name>
+    <parent line="13" column="59170">https://www.applause.com/blog/functional-testing-types-examples/</parent>
+    <realurl>https://www.applause.com/security-testing/</realurl>
+    <extern>0</extern>
+    <checktime>14.925348</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/engineering-teams/</url>
+    <name>engineers</name>
+    <parent line="13" column="34051">https://www.applause.com/blog/skills-to-thrive-as-a-devops-engineer/</parent>
+    <realurl>https://www.applause.com/engineering-teams/</realurl>
+    <extern>0</extern>
+    <checktime>15.811109</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/case-studies/uber-test-coverage/video/</url>
+    <name>Applause specializes in</name>
+    <parent line="13" column="43382">https://www.applause.com/blog/skills-to-thrive-as-a-devops-engineer/</parent>
+    <realurl>https://www.applause.com/resources/case-studies/uber-test-coverage/video/</realurl>
+    <extern>0</extern>
+    <checktime>15.020784</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/bring-your-own-testers/</url>
+    <name>fully managed service</name>
+    <parent line="13" column="65740">https://www.applause.com/blog/crowdsourced-software-testing-faqs/</parent>
+    <realurl>https://www.applause.com/bring-your-own-testers/</realurl>
+    <extern>0</extern>
+    <checktime>14.439786</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/iot-testing/</url>
+    <name>devices</name>
+    <parent line="13" column="39249">https://www.applause.com/blog/multimodal-will-change-how-we-view-voice/</parent>
+    <realurl>https://www.applause.com/iot-testing/</realurl>
+    <extern>0</extern>
+    <checktime>13.185332</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/product-sessions-live-heycar/</url>
+    <name>Drivers can connect with their favorite apps</name>
+    <parent line="13" column="35002">https://www.applause.com/blog/voice-technology-set-to-reshape-healthcare/</parent>
+    <realurl>https://www.applause.com/resources/videos/product-sessions-live-heycar/</realurl>
+    <extern>0</extern>
+    <checktime>11.977886</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/highlights-from-sams-club/</url>
+    <name>watch a few short videos</name>
+    <parent line="13" column="28112">https://www.applause.com/blog/building-sams-club-inclusivity-program/</parent>
+    <realurl>https://www.applause.com/resources/videos/highlights-from-sams-club/</realurl>
+    <extern>0</extern>
+    <checktime>10.816574</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/resources/videos/highlights-from-webex/</url>
+    <name>view some short highlight videos</name>
+    <parent line="13" column="27309">https://www.applause.com/blog/empathy-better-products-customer-loyalty/</parent>
+    <realurl>https://www.applause.com/resources/videos/highlights-from-webex/</realurl>
+    <extern>0</extern>
+    <checktime>12.796791</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  <urldata>
+    <url>https://www.applause.com/state-of-digital-quality-in-retail/</url>
+    <name>See our infographic</name>
+    <parent line="13" column="37603">https://www.applause.com/blog/retail-winners-prioritize-digital-quality/</parent>
+    <realurl>https://www.applause.com/state-of-digital-quality-in-retail/</realurl>
+    <extern>0</extern>
+    <checktime>14.573429</checktime>
+    <level>5</level>
+    <valid result="200 OK">1</valid>
+  </urldata>
+  </linkchecker>
